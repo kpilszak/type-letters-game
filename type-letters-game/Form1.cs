@@ -12,6 +12,9 @@ namespace type_letters_game
 {
     public partial class Form1 : Form
     {
+        Random random = new Random();
+        Stats stats = new Stats();
+
         public Form1()
         {
             InitializeComponent();
