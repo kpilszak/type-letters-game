@@ -110,7 +110,7 @@
             // 
             // difficultyProgressBar
             // 
-            this.difficultyProgressBar.Maximum = 701;
+            this.difficultyProgressBar.Maximum = 801;
             this.difficultyProgressBar.Name = "difficultyProgressBar";
             this.difficultyProgressBar.Size = new System.Drawing.Size(100, 24);
             // 
@@ -127,6 +127,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
