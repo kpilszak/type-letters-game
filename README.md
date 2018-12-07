@@ -1,1 +1,22 @@
-# type-letters-game
+<h1 align="right">Type Letters Game</h1><br>
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+  
+	
+## Technologies
+Project is created with:
+* C#
+* .NET
+
+## Supports
+  
+
+## Setup
+To run this project, open in Windows: /type-letters-game/obj/Debug/type-letters-game.exe file included in this repository.  
+
+## Sources
