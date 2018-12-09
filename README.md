@@ -21,3 +21,4 @@ IDE: Visual Studio 2017
 To run this project, open in Windows: /type-letters-game/obj/Debug/type-letters-game.exe file included in this repository.  
 
 ## Sources
+This project was created as an exercise from Jennifer Greene and Andrew Stellman book "Head First. C#".
