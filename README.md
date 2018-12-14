@@ -7,7 +7,7 @@
 
 ## General info
 This project is a Windows Forms Application.  
-The main purpose is to type letters that occurr in a window.  
+The main purpose is to type letters that occur in a window.  
 The letters are randomize.  
 If you press the correct button, the letter will disappear and accuracy ratio will increase.  
 On the other hand, if you press the wrong button, the accuracy ratio will decrease.  
