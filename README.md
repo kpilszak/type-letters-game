@@ -25,7 +25,7 @@ IDE: Visual Studio 2017
 * Windows 10
 
 ## Setup
-To run this project, open in Windows this file: /type-letters-game/obj/Debug/type-letters-game.exe
+To run this project, download and open in Windows this file: <a href="https://github.com/kpilszak/type-letters-game/blob/master/type-letters-game/obj/Debug/type-letters-game.exe">/type-letters-game/obj/Debug/type-letters-game.exe</a>
 
 ## Sources
 This project was created as an exercise from Jennifer Greene and Andrew Stellman book "Head First. C#".
